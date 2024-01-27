@@ -12,6 +12,7 @@ Explore the repository to find books on the following topics:
 4. **Network Security**
 5. **Web Application Security**
 6. **Security Best Practices**
+7. **Notes and Resources**
 
 Feel free to contribute by adding more books or suggesting improvements to the existing content.
 
